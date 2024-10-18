@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "AI-Powered Facility Management Platform",
+        "description": "Step into the future of agriculture with our revolutionary AI-powered facility management platform, engineered to transform your farming operations. This state-of-the-art platform offers unparalleled plant analysis and monitoring capabilities, ensuring that your facility operates at the highest level of efficiency and productivity. Harnessing the power of advanced AI algorithms, our platform provides real-time insights into the health and growth of your plants, enabling you to make informed, data-driven decisions that optimize yield and quality. What sets our platform apart is the customized plant chatbot, a smart assistant designed to offer personalized support based on your unique crop requirements. This intelligent chatbot is always at your service, providing instant updates, answering your queries, and delivering expert advice tailored to your needs.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 2,
+        "title": "Vertical Farming Factory Model",
+        "description": "It is an innovative system designed to achieve maximum efficiency in farming within limited spaces. This model allows for the high-yield cultivation of various plants within multi-layered vertical structures. It saves energy, water, and space while enabling year-round production in climate-controlled environments. Additionally, it enhances food security and minimizes logistics costs. This model is especially suitable for urban areas, military bases, and sustainable agriculture projects.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 3,
+        "title": "Vertical Farming Rack Model",
+        "description": "The Vertical Farming Rack Model is a system that allows plants to be grown in vertical layers. This model achieves high yields with reduced water and energy consumption by efficiently utilizing space. Racks are placed in climate-controlled environments, enabling continuous year-round production. It is especially ideal for urban agriculture, home use, offices, and indoor spaces for sustainable farming.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 4,
+        "title": "Vertical Farming Tower Systems",
+        "description": "Tower Systems is an innovative model that supports high-efficiency farming by vertically placing plants in specialized towers. In this system, plants are grown in layers within the towers, optimizing space usage while conserving water and energy. The towers are designed to ensure even distribution of nutrients and optimal plant growth. Tower Systems are ideal for indoor farming, urban production, and sustainable food projects.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 5,
+        "title": "Pot Model",
+        "description": "The Pot Model is a flexible and compact farming system where individual plants are grown in separate pots. This model provides specialized care for plant root systems while optimizing irrigation and nutrient supplementation. Its modular design allows pots to be easily moved and rearranged. The Pot Model is ideal for both small-scale home gardens and commercial greenhouses.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 6,
+        "title": "Climate Control Device",
+        "description": "The Climate Control Device is a system designed to provide ideal growth conditions in agricultural environments. This device controls temperature, humidity, and airflow to support optimal plant development. Its automatic settings allow it to respond instantly to environmental changes, ensuring continuous, efficient production. The Climate Control Device is an essential component for indoor farming, vertical farming systems, and greenhouses.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 7,
+        "title": "Nutrition Control",
+        "description": "The EC-pH Meter is a precise control device that measures the electrical conductivity (EC) and pH levels of agricultural irrigation water. This device ensures the correct mineral balance and acidity levels in water to optimize nutrient uptake for plants. With real-time measurements, it allows for immediate monitoring and adjustment of the growing environment conditions. The EC-pH Meter is essential for greenhouses, hydroponic systems, and precision agriculture applications.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    }
+]

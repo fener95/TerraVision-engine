@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MetaSearch Engine</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+</head>
+<body>
+    <h1>TerraVision: A MetaSearch Engine for Agriculture</h1>
+    <form method="POST">
+        <input type="text" name="location" placeholder="Location (e.g., Sicily, Italy)">
+        <input type="text" name="production" placeholder="Production Type (e.g., apricots)">
+        <input type="text" name="solution" placeholder="Solution Needed (e.g., I want an irrigation system to better manage my water usage)">
+        <button type="submit">Search</button>
+    </form>
+    <div id="results">
+        {% if results %}
+            {% for result in results %}
+                <div class="result-item">
+                    <h2><a href="{{ result['website'] }}" target="_blank">{{ result['title'] }}</a></h2>
+                    <p>{{ result['description'] }}</p>
+                    <p><strong>Location:</strong> {{ result['location'] }}</p>
+                    <p><strong>Production Type:</strong> {{ result['production_type']|join(', ') }}</p>
+                    <p><strong>Solution Type:</strong> {{ result['solution_type']|join(', ') }}</p>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No results found.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

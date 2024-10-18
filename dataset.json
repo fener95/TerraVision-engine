@@ -1,0 +1,681 @@
+[
+    {
+        "id": 1,
+        "title": "AI-Powered Facility Management Platform",
+        "description": "Step into the future of agriculture with our revolutionary AI-powered facility management platform, engineered to transform your farming operations. This state-of-the-art platform offers unparalleled plant analysis and monitoring capabilities, ensuring that your facility operates at the highest level of efficiency and productivity. Harnessing the power of advanced AI algorithms, our platform provides real-time insights into the health and growth of your plants, enabling you to make informed, data-driven decisions that optimize yield and quality. What sets our platform apart is the customized plant chatbot, a smart assistant designed to offer personalized support based on your unique crop requirements. This intelligent chatbot is always at your service, providing instant updates, answering your queries, and delivering expert advice tailored to your needs.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 2,
+        "title": "Vertical Farming Factory Model",
+        "description": "It is an innovative system designed to achieve maximum efficiency in farming within limited spaces. This model allows for the high-yield cultivation of various plants within multi-layered vertical structures. It saves energy, water, and space while enabling year-round production in climate-controlled environments. Additionally, it enhances food security and minimizes logistics costs. This model is especially suitable for urban areas, military bases, and sustainable agriculture projects.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 3,
+        "title": "Vertical Farming Rack Model",
+        "description": "The Vertical Farming Rack Model is a system that allows plants to be grown in vertical layers. This model achieves high yields with reduced water and energy consumption by efficiently utilizing space. Racks are placed in climate-controlled environments, enabling continuous year-round production. It is especially ideal for urban agriculture, home use, offices, and indoor spaces for sustainable farming.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 4,
+        "title": "Vertical Farming Tower Systems",
+        "description": "Tower Systems is an innovative model that supports high-efficiency farming by vertically placing plants in specialized towers. In this system, plants are grown in layers within the towers, optimizing space usage while conserving water and energy. The towers are designed to ensure even distribution of nutrients and optimal plant growth. Tower Systems are ideal for indoor farming, urban production, and sustainable food projects.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 5,
+        "title": "Pot Model",
+        "description": "The Pot Model is a flexible and compact farming system where individual plants are grown in separate pots. This model provides specialized care for plant root systems while optimizing irrigation and nutrient supplementation. Its modular design allows pots to be easily moved and rearranged. The Pot Model is ideal for both small-scale home gardens and commercial greenhouses.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 6,
+        "title": "Climate Control Device",
+        "description": "The Climate Control Device is a system designed to provide ideal growth conditions in agricultural environments. This device controls temperature, humidity, and airflow to support optimal plant development. Its automatic settings allow it to respond instantly to environmental changes, ensuring continuous, efficient production. The Climate Control Device is an essential component for indoor farming, vertical farming systems, and greenhouses.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 7,
+        "title": "Nutrition Control",
+        "description": "The EC-pH Meter is a precise control device that measures the electrical conductivity (EC) and pH levels of agricultural irrigation water. This device ensures the correct mineral balance and acidity levels in water to optimize nutrient uptake for plants. With real-time measurements, it allows for immediate monitoring and adjustment of the growing environment conditions. The EC-pH Meter is essential for greenhouses, hydroponic systems, and precision agriculture applications.",
+        "location": "Global",
+        "production_type": [
+            "vertical farming"
+        ],
+        "solution_type": [
+            "hydroponics"
+        ],
+        "website": "https://agriverts.com/products"
+    },
+    {
+        "id": 8,
+        "title": "SolarHarvest Energy Solutions",
+        "description": "Soil sensors providing real-time nutrient data.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "pest control"
+        ],
+        "website": "https://example-agri10.com/product"
+    },
+    {
+        "id": 9,
+        "title": "SeedSentry Smart Planter",
+        "description": "Machinery converting agricultural waste into renewable energy.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "pest control"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 10,
+        "title": "WindWave Turbine Systems",
+        "description": "Soil sensors providing real-time nutrient data.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "irrigation management"
+        ],
+        "website": "https://example-agri7.com/product"
+    },
+    {
+        "id": 11,
+        "title": "AquaPure Water Filtration",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "Ontario, Canada",
+        "production_type": [
+            "apricots",
+            "citrus"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 12,
+        "title": "CropShield Pest Control",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "wheat",
+            "barley"
+        ],
+        "solution_type": [
+            "renewable energy"
+        ],
+        "website": "https://example-agri5.com/product"
+    },
+    {
+        "id": 13,
+        "title": "CropShield Pest Control",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "renewable energy"
+        ],
+        "website": "https://example-agri10.com/product"
+    },
+    {
+        "id": 14,
+        "title": "TerraTech Drone Monitoring",
+        "description": "Smart planter with automatic seed distribution.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "renewable energy"
+        ],
+        "website": "https://example-agri5.com/product"
+    },
+    {
+        "id": 15,
+        "title": "BioBoost Soil Enhancer",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri3.com/product"
+    },
+    {
+        "id": 16,
+        "title": "AgriSense Soil Sensors",
+        "description": "Organic soil enhancer for improved crop yields.",
+        "location": "California, USA",
+        "production_type": [
+            "apricots",
+            "citrus"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 17,
+        "title": "EcoFlow Irrigation System",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri10.com/product"
+    },
+    {
+        "id": 18,
+        "title": "GreenEnergy Biomass Converter",
+        "description": "Drone-based crop monitoring for precision agriculture.",
+        "location": "Ontario, Canada",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "pest control"
+        ],
+        "website": "https://example-agri3.com/product"
+    },
+    {
+        "id": 19,
+        "title": "CropShield Pest Control",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri8.com/product"
+    },
+    {
+        "id": 20,
+        "title": "TerraTech Drone Monitoring",
+        "description": "Machinery converting agricultural waste into renewable energy.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri8.com/product"
+    },
+    {
+        "id": 21,
+        "title": "AgriSense Soil Sensors",
+        "description": "Organic soil enhancer for improved crop yields.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "renewable energy"
+        ],
+        "website": "https://example-agri8.com/product"
+    },
+    {
+        "id": 22,
+        "title": "SeedSentry Smart Planter",
+        "description": "Drone-based crop monitoring for precision agriculture.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "irrigation management"
+        ],
+        "website": "https://example-agri9.com/product"
+    },
+    {
+        "id": 23,
+        "title": "WindWave Turbine Systems",
+        "description": "Smart planter with automatic seed distribution.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "irrigation management"
+        ],
+        "website": "https://example-agri9.com/product"
+    },
+    {
+        "id": 24,
+        "title": "WindWave Turbine Systems",
+        "description": "An advanced irrigation system optimizing water use for orchards.",
+        "location": "California, USA",
+        "production_type": [
+            "wheat",
+            "barley"
+        ],
+        "solution_type": [
+            "renewable energy"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 25,
+        "title": "TerraTech Drone Monitoring",
+        "description": "Smart planter with automatic seed distribution.",
+        "location": "Ontario, Canada",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "pest control"
+        ],
+        "website": "https://example-agri8.com/product"
+    },
+    {
+        "id": 26,
+        "title": "AgriSense Soil Sensors",
+        "description": "Soil sensors providing real-time nutrient data.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "pest control"
+        ],
+        "website": "https://example-agri5.com/product"
+    },
+    {
+        "id": 27,
+        "title": "AgriSense Soil Sensors",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "California, USA",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "irrigation management"
+        ],
+        "website": "https://example-agri3.com/product"
+    },
+    {
+        "id": 28,
+        "title": "AgriSense Soil Sensors",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri1.com/product"
+    },
+    {
+        "id": 29,
+        "title": "EcoFlow Irrigation System",
+        "description": "Smart planter with automatic seed distribution.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri10.com/product"
+    },
+    {
+        "id": 30,
+        "title": "SolarHarvest Energy Solutions",
+        "description": "Smart planter with automatic seed distribution.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 31,
+        "title": "AgriSense Soil Sensors",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "renewable energy"
+        ],
+        "website": "https://example-agri9.com/product"
+    },
+    {
+        "id": 32,
+        "title": "CropShield Pest Control",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "California, USA",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "irrigation management"
+        ],
+        "website": "https://example-agri3.com/product"
+    },
+    {
+        "id": 33,
+        "title": "GreenEnergy Biomass Converter",
+        "description": "Organic soil enhancer for improved crop yields.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri9.com/product"
+    },
+    {
+        "id": 34,
+        "title": "AquaPure Water Filtration",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "renewable energy"
+        ],
+        "website": "https://example-agri2.com/product"
+    },
+    {
+        "id": 35,
+        "title": "AgriSense Soil Sensors",
+        "description": "State-of-the-art water filtration system for agriculture.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri5.com/product"
+    },
+    {
+        "id": 36,
+        "title": "EcoFlow Irrigation System",
+        "description": "Smart planter with automatic seed distribution.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri3.com/product"
+    },
+    {
+        "id": 37,
+        "title": "GreenEnergy Biomass Converter",
+        "description": "Wind turbine systems tailored for farm energy needs.",
+        "location": "California, USA",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 38,
+        "title": "TerraTech Drone Monitoring",
+        "description": "An advanced irrigation system optimizing water use for orchards.",
+        "location": "Ontario, Canada",
+        "production_type": [
+            "olives",
+            "grapes"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri4.com/product"
+    },
+    {
+        "id": 39,
+        "title": "GreenEnergy Biomass Converter",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "California, USA",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri5.com/product"
+    },
+    {
+        "id": 40,
+        "title": "WindWave Turbine Systems",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "California, USA",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 41,
+        "title": "GreenEnergy Biomass Converter",
+        "description": "Wind turbine systems tailored for farm energy needs.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "corn",
+            "soybeans"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri1.com/product"
+    },
+    {
+        "id": 42,
+        "title": "EcoFlow Irrigation System",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "California, USA",
+        "production_type": [
+            "wheat",
+            "barley"
+        ],
+        "solution_type": [
+            "pest control"
+        ],
+        "website": "https://example-agri9.com/product"
+    },
+    {
+        "id": 43,
+        "title": "TerraTech Drone Monitoring",
+        "description": "Drone-based crop monitoring for precision agriculture.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "irrigation management"
+        ],
+        "website": "https://example-agri7.com/product"
+    },
+    {
+        "id": 44,
+        "title": "BioBoost Soil Enhancer",
+        "description": "Soil sensors providing real-time nutrient data.",
+        "location": "Queensland, Australia",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "irrigation management"
+        ],
+        "website": "https://example-agri5.com/product"
+    },
+    {
+        "id": 45,
+        "title": "EcoFlow Irrigation System",
+        "description": "Solar-powered equipment for sustainable farming operations.",
+        "location": "Ontario, Canada",
+        "production_type": [
+            "wheat",
+            "barley"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri2.com/product"
+    },
+    {
+        "id": 46,
+        "title": "SeedSentry Smart Planter",
+        "description": "Organic soil enhancer for improved crop yields.",
+        "location": "California, USA",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri2.com/product"
+    },
+    {
+        "id": 47,
+        "title": "WindWave Turbine Systems",
+        "description": "Wind turbine systems tailored for farm energy needs.",
+        "location": "Andalusia, Spain",
+        "production_type": [
+            "all"
+        ],
+        "solution_type": [
+            "pest control"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 48,
+        "title": "TerraTech Drone Monitoring",
+        "description": "Soil sensors providing real-time nutrient data.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "apricots",
+            "citrus"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri10.com/product"
+    },
+    {
+        "id": 49,
+        "title": "SeedSentry Smart Planter",
+        "description": "Soil sensors providing real-time nutrient data.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "apricots",
+            "citrus"
+        ],
+        "solution_type": [
+            "energy recovery machinery"
+        ],
+        "website": "https://example-agri6.com/product"
+    },
+    {
+        "id": 50,
+        "title": "AgriSense Soil Sensors",
+        "description": "Eco-friendly pest control solutions.",
+        "location": "Sicily, Italy",
+        "production_type": [
+            "apricots",
+            "citrus"
+        ],
+        "solution_type": [
+            "soil management"
+        ],
+        "website": "https://example-agri8.com/product"
+    }
+]
