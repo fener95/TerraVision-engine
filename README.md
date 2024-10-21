@@ -56,7 +56,7 @@ Git
 Steps
 Clone the Repository:
 
-git clone https://github.com/username/TerraVision-engine.git
+git clone https://github.com/fener95/TerraVision-engine.git
 cd TerraVision-engine
 
 Create a Virtual Environment (optional but recommended):
@@ -127,8 +127,7 @@ Create your feature branch: git checkout -b feature/YourFeature
 Commit your changes: git commit -m 'Add some feature'
 Push to the branch: git push origin feature/YourFeature
 Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+License:
 
 Contacts:
 👤
